@@ -12,12 +12,3 @@
     <td><a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70"/></a></td>
   </tr>
 </table>
-
-import LetterGlitch from './LetterGlitch';
-  
-<LetterGlitch
-  glitchSpeed={50}
-  centerVignette={true}
-  outerVignette={false}
-  smooth={true}
-/>
