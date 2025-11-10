@@ -1,4 +1,4 @@
-<table>
+<!-- <table>
   <tr>
     <td><a href="https://archlinux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="70"/></a></td>
     <td><a href="https://kernel.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/></a></td>
@@ -12,3 +12,25 @@
     <td><a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70"/></a></td>
   </tr>
 </table>
+-->
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.alias = "Systematiq"
+        self.role = "Software Engineer"
+        self.language_spoken = ["en_EN", "ro_RO", "ru_RU"]
+        self.website = "systematiq.one"
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
