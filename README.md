@@ -28,7 +28,7 @@ class SoftwareEngineer:
         self.website = "systematiq.one"
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for dropping.. Bye")
 
 
 me = SoftwareEngineer()
