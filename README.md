@@ -35,8 +35,4 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-![Coding1](coding.gif)
-
----
-
-![Coding2](coding-2.gif)
+![Coding](coding.gif)
