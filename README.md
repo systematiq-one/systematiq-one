@@ -1,13 +1,11 @@
 <div align="center">
+    
 ![Coding](coding.gif)
+
 </div>
 
 ```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# ──[ access node: systematiq ]──────────────────
-#  trace: none   ·   clearance: denied   ·   uptime: ∞
-# ────────────────────────────────────────────────
+!/usr/bin/env python3
 
 import sys
 from time import sleep
@@ -56,30 +54,35 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<br/>
+<img src="coding.gif" width="500"/>
 
-![Google — AI](https://img.shields.io/badge/Google-AI-0b0b0b?style=flat-square&logo=google&logoColor=white)
-![IBM — Agentic AI](https://img.shields.io/badge/IBM-Agentic_AI-0b0b0b?style=flat-square&logo=ibm&logoColor=white)
-![Google — Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-0b0b0b?style=flat-square&logo=google&logoColor=white)
+---
 
-<br/>
+Data Scientist · Claude Architect
 
-![Web](https://img.shields.io/badge/systematiq.one-0b0b0b?style=flat-square&logo=icloud&logoColor=white)
-![Mail](https://img.shields.io/badge/the@systematiq.one-0b0b0b?style=flat-square&logo=protonmail&logoColor=white)
-
-<table>
-  <tr>
-    <td><a href="https://archlinux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="70"/></a></td>
-    <td><a href="https://kernel.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/></a></td>
-    <td><a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="70"/></a></td>
-    <td><a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70"/></a></td>
-    <td><a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="70"/></a></td>
-    <td><a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="70"/></a></td>
-    <td><a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="70"/></a></td>
-    <td><a href="https://streamlit.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="70"/></a></td>
-    <td><a href="https://pandas.pydata.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="70"/></a></td>
-    <td><a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70"/></a></td>
-  </tr>
-</table>
-
+[![Website](https://img.shields.io/badge/systematiq.one-000000?style=flat&logo=About.me&logoColor=white)](https://systematiq.one)
+[![Email](https://img.shields.io/badge/the@systematiq.one-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:the@systematiq.one)
 </div>
+
+---
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=Arch-Linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=JetBrains&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=Obsidian&logoColor=white)
+
+---
+
+## Certifications
+
+[![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat&logo=Google&logoColor=white)](https://alex.braguta.com/certificates/google-ai.pdf)
+[![IBM Agentic AI](https://img.shields.io/badge/IBM_Agentic_AI-052FAD?style=flat&logo=IBM&logoColor=white)](https://alex.braguta.com/certificates/ibm-agentic-ai.pdf)
+[![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat&logo=Google&logoColor=white)](https://alex.braguta.com/certificates/google-data-analytics.pdf)
+
