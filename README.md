@@ -35,27 +35,40 @@ me = SoftwareEngineer()
 me.say_hi()
 ```
 
-![Coding](coding.gif)
-
 
 <!-- systematiq -->
 
 ```
-   ┌─────────────────────────────────────────────┐
-   │  $ whoami                                    │
-   │  > systematiq                                │
-   │                                              │
-   │  $ cat ./role                                │
-   │  > Data Scientist · Claude Architect         │
-   │                                              │
-   │  $ ./access --request                        │
-   │  > [ permission denied ]                     │
-   └─────────────────────────────────────────────┘
+  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+  █                                                 █
+  █   s y s t e m a t i q                           █
+  █   ─────────────────────────────────────────     █
+  █   booting environment ......... ok              █
+  █   loading identity ............ [ redacted ]    █
+  █   establishing trust .......... ∞               █
+  █                                                 █
+  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+```bash
+$ whoami
+> systematiq
+
+$ cat ./role
+> Data Scientist · Claude Architect
+
+$ ls -a ./about
+> .  ..  (empty)
+
+$ ./access --request
+> [ permission denied ]
 ```
 
 <div align="center">
 
-`signal in the noise`
+![Coding](coding.gif)
+
+<br/>
 
 ![Google — AI](https://img.shields.io/badge/Google-AI-0b0b0b?style=flat-square&logo=google&logoColor=white)
 ![IBM — Agentic AI](https://img.shields.io/badge/IBM-Agentic_AI-0b0b0b?style=flat-square&logo=ibm&logoColor=white)
@@ -66,12 +79,29 @@ me.say_hi()
 ![Web](https://img.shields.io/badge/systematiq.one-0b0b0b?style=flat-square&logo=icloud&logoColor=white)
 ![Mail](https://img.shields.io/badge/the@systematiq.one-0b0b0b?style=flat-square&logo=protonmail&logoColor=white)
 
-<br/>
+</div>
+
+```
+  ┌─[ transmission ]──────────────────────────────┐
+  │                                                │
+  │   01110111 01101111 01110010 01101011          │
+  │                                                │
+  │   > systems think.                             │
+  │   > patterns surface.                          │
+  │   > the rest is noise.                         │
+  │                                                │
+  └────────────────────────────────────────────────┘
+```
+
+<div align="center">
 
 ```
 > the work speaks. the rest is silence.
 ```
 
+`uptime: ∞`  ·  `status: observing`  ·  `trace: none`
+
 <sub>`// no further details will be provided`</sub>
 
 </div>
+
