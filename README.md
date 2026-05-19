@@ -28,7 +28,7 @@ Data Scientist · Claude Architect
 
 ## Certifications
 
-[![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat&logo=Google&logoColor=white)]
-[![IBM Agentic AI](https://img.shields.io/badge/IBM_Agentic_AI-052FAD?style=flat&logo=IBM&logoColor=white)]
-[![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat&logo=Google&logoColor=white)]
+[![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=flat&logo=Google&logoColor=white)](https://systematiq.one)
+[![IBM Agentic AI](https://img.shields.io/badge/IBM_Agentic_AI-052FAD?style=flat&logo=IBM&logoColor=white)](https://systematiq.one)
+[![Google Data Analytics](https://img.shields.io/badge/Google_Data_Analytics-4285F4?style=flat&logo=Google&logoColor=white)](https://systematiq.one)
 
