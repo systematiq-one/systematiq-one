@@ -36,3 +36,42 @@ me.say_hi()
 ```
 
 ![Coding](coding.gif)
+
+
+<!-- systematiq -->
+
+```
+   ┌─────────────────────────────────────────────┐
+   │  $ whoami                                    │
+   │  > systematiq                                │
+   │                                              │
+   │  $ cat ./role                                │
+   │  > Data Scientist · Claude Architect         │
+   │                                              │
+   │  $ ./access --request                        │
+   │  > [ permission denied ]                     │
+   └─────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+`signal in the noise`
+
+![Google — AI](https://img.shields.io/badge/Google-AI-0b0b0b?style=flat-square&logo=google&logoColor=white)
+![IBM — Agentic AI](https://img.shields.io/badge/IBM-Agentic_AI-0b0b0b?style=flat-square&logo=ibm&logoColor=white)
+![Google — Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-0b0b0b?style=flat-square&logo=google&logoColor=white)
+
+<br/>
+
+![Web](https://img.shields.io/badge/systematiq.one-0b0b0b?style=flat-square&logo=icloud&logoColor=white)
+![Mail](https://img.shields.io/badge/the@systematiq.one-0b0b0b?style=flat-square&logo=protonmail&logoColor=white)
+
+<br/>
+
+```
+> the work speaks. the rest is silence.
+```
+
+<sub>`// no further details will be provided`</sub>
+
+</div>
