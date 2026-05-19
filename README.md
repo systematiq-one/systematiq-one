@@ -1,4 +1,73 @@
-<!-- <table>
+<div align="center">
+![Coding](coding.gif)
+</div>
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# ──[ access node: systematiq ]──────────────────
+#  trace: none   ·   clearance: denied   ·   uptime: ∞
+# ────────────────────────────────────────────────
+
+import sys
+from time import sleep
+
+
+class Operative:
+
+    __slots__ = ("_id", "_role", "_certs", "_channels", "_lang")
+
+    def __init__(self) -> None:
+        self._id       = "systematiq"
+        self._role     = "Data Scientist · Claude Architect"
+        self._certs    = ("Google::AI", "IBM::Agentic-AI", "Google::Data-Analytics")
+        self._channels = {"web": "systematiq.one", "mail": "the@systematiq.one"}
+        self._lang     = ("en_EN", "ro_RO", "ru_RU")
+
+    def whoami(self) -> None:
+        for line in (
+            f"> id      : {self._id}",
+            f"> role    : {self._role}",
+            f"> certs   : {' / '.join(self._certs)}",
+            f"> lang    : {' '.join(self._lang)}",
+            f"> web     : {self._channels['web']}",
+            f"> mail    : {self._channels['mail']}",
+        ):
+            sleep(0.04)
+            print(line)
+
+    def __repr__(self) -> str:
+        return "<Operative systematiq :: [ REDACTED ] >"
+
+    def disconnect(self) -> None:
+        print("\n> signal lost. the rest is silence.")
+        sys.exit(0)
+
+
+if __name__ == "__main__":
+    node = Operative()
+    node.whoami()
+    node.disconnect()
+```
+
+
+<!-- systematiq -->
+
+
+<div align="center">
+
+<br/>
+
+![Google — AI](https://img.shields.io/badge/Google-AI-0b0b0b?style=flat-square&logo=google&logoColor=white)
+![IBM — Agentic AI](https://img.shields.io/badge/IBM-Agentic_AI-0b0b0b?style=flat-square&logo=ibm&logoColor=white)
+![Google — Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-0b0b0b?style=flat-square&logo=google&logoColor=white)
+
+<br/>
+
+![Web](https://img.shields.io/badge/systematiq.one-0b0b0b?style=flat-square&logo=icloud&logoColor=white)
+![Mail](https://img.shields.io/badge/the@systematiq.one-0b0b0b?style=flat-square&logo=protonmail&logoColor=white)
+
+<table>
   <tr>
     <td><a href="https://archlinux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="70"/></a></td>
     <td><a href="https://kernel.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"/></a></td>
@@ -12,96 +81,5 @@
     <td><a href="https://scikit-learn.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="70"/></a></td>
   </tr>
 </table>
--->
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
-class SoftwareEngineer:
-
-    def __init__(self):
-        self.alias = "Systematiq"
-        self.role = "Software Engineer"
-        self.language_spoken = ["en_EN", "ro_RO", "ru_RU"]
-        self.website = "systematiq.one"
-
-    def say_hi(self):
-        print("Thanks for dropping.. Bye")
-
-
-me = SoftwareEngineer()
-me.say_hi()
-```
-
-
-<!-- systematiq -->
-
-```
-  ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-  █                                                 █
-  █   s y s t e m a t i q                           █
-  █   ─────────────────────────────────────────     █
-  █   booting environment ......... ok              █
-  █   loading identity ............ [ redacted ]    █
-  █   establishing trust .......... ∞               █
-  █                                                 █
-  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
-```bash
-$ whoami
-> systematiq
-
-$ cat ./role
-> Data Scientist · Claude Architect
-
-$ ls -a ./about
-> .  ..  (empty)
-
-$ ./access --request
-> [ permission denied ]
-```
-
-<div align="center">
-
-![Coding](coding.gif)
-
-<br/>
-
-![Google — AI](https://img.shields.io/badge/Google-AI-0b0b0b?style=flat-square&logo=google&logoColor=white)
-![IBM — Agentic AI](https://img.shields.io/badge/IBM-Agentic_AI-0b0b0b?style=flat-square&logo=ibm&logoColor=white)
-![Google — Data Analytics](https://img.shields.io/badge/Google-Data_Analytics-0b0b0b?style=flat-square&logo=google&logoColor=white)
-
-<br/>
-
-![Web](https://img.shields.io/badge/systematiq.one-0b0b0b?style=flat-square&logo=icloud&logoColor=white)
-![Mail](https://img.shields.io/badge/the@systematiq.one-0b0b0b?style=flat-square&logo=protonmail&logoColor=white)
 
 </div>
-
-```
-  ┌─[ transmission ]──────────────────────────────┐
-  │                                                │
-  │   01110111 01101111 01110010 01101011          │
-  │                                                │
-  │   > systems think.                             │
-  │   > patterns surface.                          │
-  │   > the rest is noise.                         │
-  │                                                │
-  └────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-```
-> the work speaks. the rest is silence.
-```
-
-`uptime: ∞`  ·  `status: observing`  ·  `trace: none`
-
-<sub>`// no further details will be provided`</sub>
-
-</div>
-
